@@ -1,4 +1,5 @@
 # MAS-LSTM
+paper "MAS-LSTM: A Multi-Agent LSTM-Based Approach for Scalable Anomaly Detection in IIoT Networks" code.
  
 # Datasets
 
